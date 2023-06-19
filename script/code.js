@@ -68,7 +68,7 @@ let skillsArray = [
     title: "JavaScript",
     level: "intermediate",
     description:
-      "I've been self studying front end developer for a while now and I've managed to get a very good understanding of HTML5, though I know web development won't stop growing so I won't stop learning.",
+      "I've gained experience using JavaScript by building a few projects which allowed me to grasp key concepts. I am still in the process of improving my knowledge regarding JS. I'm quite happy with the progress I'm making.",
     img: "https://i.postimg.cc/Bb2GBwsy/js.png",
   },
   {
