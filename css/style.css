@@ -6,6 +6,7 @@
     --fontColor: #fff;
     --thirdColor: #08546c;
     --bgBox-shadow: 5px 10px 8px #888888;
+    --oddColor: orangered;
 }
 
 *,
@@ -54,7 +55,7 @@ a{
 }
 
 .color{
-    color: orangered;
+    color: var(--oddColor);
 }
 
 .box{
@@ -110,6 +111,11 @@ a{
 
 .intro-img{
     width: 30rem;
+}
+
+.download{
+    background-color: var(--oddColor);
+    color: var(--fontColor);
 }
 
 /* About Me Section */
