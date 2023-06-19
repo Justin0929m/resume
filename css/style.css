@@ -41,6 +41,10 @@ a{
     font-size: 1.3rem;
 }
 
+.title-center{
+    text-align: center;
+}
+
 .title{
     text-align: center;
     padding-top: 1rem;
@@ -126,12 +130,11 @@ a{
 }
 
 .left-side{
-    /* width: 50%; */
     padding: 2rem 2rem 2rem;
 }
 
 .right-side-img{
-    /* aspect-ratio: 1 / 1; */
+    aspect-ratio: 1 / 1;
     height: 100%;
     object-fit: cover;
 }
