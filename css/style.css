@@ -311,20 +311,6 @@ a{
 
 /* Media Queries */
 
-@media (width <= 48rem) {
-    .right-side-img{
-    aspect-ratio: 1 / 1;
-    object-fit: cover;
-    }
-}
-
-@media (width <= 35.25rem) {
-    .right-side-img{
-    aspect-ratio: 1 / 1;
-    object-fit: cover;
-    }
-}
-
 @media (width >= 40rem) {
     .toggle-btn{
     display: none;
